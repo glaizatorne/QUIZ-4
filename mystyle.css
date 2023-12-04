@@ -1,0 +1,55 @@
+header {
+    background-color: rgb(149, 203, 250);
+    text-align: center;
+    padding: 25px;
+    font-size: 20px;
+}
+.con1 {
+    display: flex;
+    flex-direction: column;
+}
+.con2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgb(15, 105, 184);
+    padding: 20px;
+}
+.con3 {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.flex-con {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.flex-item {
+    font-size: 16px;
+    text-align: center;
+    padding: 5px;
+}
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: gainsboro;
+    padding: 30px;
+}
+a {
+    text-decoration: none;
+}
+h1 {
+    background-color: rgb(52, 74, 94);
+    text-align: center;
+    padding: 20px;
+}
+
+.item1{
+    height: 10px;
+    width: 20px;
+}
